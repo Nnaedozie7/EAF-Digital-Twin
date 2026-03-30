@@ -7,7 +7,7 @@ mass flows, energy consumption, and process performance in steelmaking.
 
 ## 🚀 Overview
 
-This model combines **first-principles thermodynamics** with **industrial operating assumptions** to simulate:
+This model combines **first principles thermodynamics** with **industrial operating assumptions** to simulate:
 
 - Mass balance (steel, slag, dust, losses)
 - Energy balance (sensible, latent, net energy)
@@ -30,7 +30,7 @@ This model combines **first-principles thermodynamics** with **industrial operat
 
 - 🔹 **Dynamic Heat Profile**
   - Time-dependent power (melting, refining, final heating)  
-  - Energy-consistent via normalization  
+  - Energy consistent via normalization  
 
 - 🔹 **Scenario Analysis**
   - Base case vs improved efficiency  
@@ -68,10 +68,6 @@ The model enforces:
 - Mass conservation  
 - Energy balance  
 - Time-integrated power consistency  
-
-\[
-E = \int P(t)\,dt
-\]
 
 ---
 
