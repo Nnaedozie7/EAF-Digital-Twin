@@ -98,4 +98,13 @@ E = \int P(t)\,dt
 
 - AIST – Electric Arc Furnace Efficiency  
 - Sameeeksha – COMPENDIUM- ENERGY EFFICIENT, TECHNOLOGY PACKAGES FOR ELECTRIC ARC FURNACE
+- -  Electric arc furnace slag as natural aggregate replacement in concrete production. Saveria Monosi, Maria Letizia Ruello*, Daniela Sani.
+- The potential of industrial waste: Electric arc furnace slag (EAF) as recycled road construction materials. Patimapon Sukmak a, Gampanart Sukmak a, Pre DeSilva b, Suksun Horpibulsuk.
+- A critical analysis of electric arc furnace (EAF) slag for sustainable geopolymer concrete production. Kamal Kishore , M. Neaz Sheikh , Muhammad N.S. Hadi
+- A Review of Electric arc Furnace Dust (EAFD) Reuse and Recycle Methods. Zahra Khebri1,2 · Zahra Razavi3 · Fatemeh Sadeghian2 · Fahimeh Faqhihi2 ·
+- Pyrometallurgical recovery of zinc and valuable metals from electric arc furnace dust. Jie Wang a, Yingyi Zhang a, b, *, Kunkun Cui a, Tao Fu a, Jianjun Gao c, Shahid Hussain.
+- Hydrometallurgical Processes for the Recovery of Metals from Steel Industry By‑Products. Koen Binnemans1 · Peter Tom Jones2 · Álvaro Manjón Fernández3, Victoria Masaguer Torres3.
+- Waste heat recovery technologies and applications. Hussam Jouhara⁎, Navid Khordehgah, Sulaiman Almahmoud
+- Heat recovery from EAF off-gas for steam generation. K. Gandt, T. Meier, T. Echterhof∗ and H. Pfeifer.
+- Off-Gas Waste Heat Recovery for Electric Arc Furnace Steelmaking Using Calcium Hydroxide (Ca(OH)2) Dehydration. Georg Hartfuß,* Max Schmid, and Günter Scheffknecht.
 
